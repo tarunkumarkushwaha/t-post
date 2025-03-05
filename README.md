@@ -12,5 +12,5 @@ Vite ReactJS – Frontend framework
 Redux – State management
 CSS/Tailwind – Styling
 
-live link - will be updated here
+live link - https://t-post.vercel.app/
 

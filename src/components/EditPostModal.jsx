@@ -66,8 +66,8 @@ const EditPostModal = ({ open, onClose, postData }) => {
           </label>
 
           <div className="mt-4 flex justify-end gap-2">
-            <button onClick={onClose} className="px-4 py-2 text-gray-700 bg-gray-200 rounded-md">Cancel</button>
-            <button onClick={updatePost} className="px-4 py-2 bg-blue-600 text-white rounded-md">Update</button>
+            <button onClick={onClose} className="px-4 py-2 text-gray-700 cursor-pointer bg-gray-200 rounded-md">Cancel</button>
+            <button onClick={updatePost} className="px-4 py-2 bg-blue-600 cursor-pointer text-white rounded-md">Update</button>
           </div>
         </DialogPanel>
       </div>
